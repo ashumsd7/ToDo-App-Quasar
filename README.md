@@ -2,10 +2,14 @@
 
 A todo App by Ashu
 
+##Demo https://quasar-todo-app-aat.netlify.app/
+
 ## Install the dependencies
 ```bash
 npm install
 ```
+
+
 
 ### Start the app in development mode (hot-code reloading, error reporting, etc.)
 ```bash
